@@ -1,4 +1,4 @@
-# Ruby on Rails Static application
+# Ruby on Rails static application
 
 ## License
 
